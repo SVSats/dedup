@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Dedup
+Comment=Elimina archivos duplicados de forma segura
+Exec=dedup-gui
+Icon=dedup
+Terminal=false
+Type=Application
+Categories=Utility;FileTools;
+StartupNotify=true
